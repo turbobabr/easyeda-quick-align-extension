@@ -1,0 +1,11 @@
+{
+	"name": "Extenstion Template",
+  "description": "A simple template for developing EasyEDA extension",
+  "id": "base-template",
+  "locale": "locale.txt",
+  "author": "Andrey Shakhmin",
+  "icons": {
+		"default": "icon.svg"
+	},		
+	"scripts": ["main.js" ]
+}
