@@ -10,7 +10,7 @@ const buildArchiveFileName = (version) => {
 };
 
 const buildDownloadURL = (version) => {
-  return `https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/${version}/${buildArchiveFileName(version)}`;
+  return `https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v${version}/${buildArchiveFileName(version)}`;
 };
 
 (() => {
