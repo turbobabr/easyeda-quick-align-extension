@@ -34,6 +34,16 @@ const buildDownloadURL = (version) => {
 
   Utils.writeFile(readmeOutputFilePath,readmeContents);
 
+  // Build cheat sheet
+  const cheatSheetFilePath = path.resolve(__dirname,'../release/cheatsheet.txt');
+  Utils.writeFile(cheatSheetFilePath,`
+  #tag-name
+  v${package.version}
+
+  #release-name
+  QuickAlign v${package.version},
+  `);
+
   // Zipping the entire thing
   zipper.sync.zip(path.resolve(__dirname,'../build/')).compress().save(path.join(outputDir,archiveFileName));
   console.log('done!');  
