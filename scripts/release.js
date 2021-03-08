@@ -41,7 +41,7 @@ const buildDownloadURL = (version) => {
 v${package.version}
 
 #release-name
-QuickAlign v${package.version},
+QuickAlign v${package.version}
   `);
 
   // Zipping the entire thing
