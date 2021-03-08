@@ -1,6 +1,6 @@
 {
   "name": "easyeda-quick-align-extension",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Objects alignment without a hassle!",
   "scripts": {
     "build": "webpack --mode production",
