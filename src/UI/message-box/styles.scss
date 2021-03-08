@@ -1,0 +1,37 @@
+
+.qae-message-box-container {
+  display: flex;
+  position: absolute;
+  align-items:flex-end;
+  justify-content: center;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 100px;    
+}
+
+.qae-message-box {    
+  display: flex;
+  svg {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    margin-right: 6px;
+    
+  }
+
+  span {
+    font-size: 14px;
+    color: black;
+  }
+
+  z-index: 1000;
+  margin-bottom: 20px;
+  padding: 5px 10px 5px 10px;
+  border-radius: 4px;  
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.29);
+  background-color: white;
+  
+}

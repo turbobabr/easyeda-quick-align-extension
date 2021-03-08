@@ -1,0 +1,96 @@
+
+#quick-align-root-ui-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;    
+}
+
+
+#quick-align-panel-container {
+  position: absolute;
+  background-color: transparent;
+  pointer-events: all;
+
+  z-index: 1000;
+  outline: none;
+
+  width: 200px;
+  height: 200px;
+
+  display: none;
+
+  .top-action {
+    position: absolute;
+    width: 49px;
+    height: 30px;
+    left: 70px;
+    top: 26px;        
+  }
+
+  .right-action {
+      position: absolute;
+      width: 49px;
+      height: 30px;
+      left: 103px;
+      top: 49px;        
+  }
+
+  .bottom-action {
+      position: absolute;
+      width: 49px;
+      height: 30px;
+      left: 70px;
+      top: 94px;        
+  }
+
+  .left-action {
+      position: absolute;
+      width: 49px;
+      height: 30px;
+      left: 47px;
+      top: 49px;        
+  }
+
+  .horz-center-action {
+      position: absolute;
+      width: 34px;
+      height: 33px;
+      left: 77px;
+      top: 57px;        
+  }
+
+  .center-center-action {
+      position: absolute;
+      width: 34px;
+      height: 33px;
+      left: 130px;
+      top: 0;        
+  }
+
+  .vert-center-action {
+      position: absolute;
+      width: 34px;
+      height: 33px;
+      left: 21px;
+      top: 109px;        
+  }
+
+  .distribute-horz-action {
+      position: absolute;
+      width: 43px;
+      height: 43px;
+      left: 0px;
+      top: 55px;        
+  }
+
+  .distribute-vert-action {
+      position: absolute;
+      width: 43px;
+      height: 43px;
+      left: 76px;
+      top: 131px;        
+  }
+}

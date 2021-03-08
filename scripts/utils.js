@@ -92,6 +92,10 @@ function readJSON(filePath) {
   return JSON.parse(readFile(filePath));
 }
 
+function writeJSON(filePath, obj) {  
+  writeFile(filePath, JSON.stringify(obj,null,4));
+}
+
 function readAndReplaceTextFile(path, vars) {
   return replaceVars(readFile(path), vars);
 }
@@ -111,6 +115,7 @@ module.exports = {
   fileExists: fileExists,
   createDir: createDir,
   readJSON: readJSON,
+  writeJSON: writeJSON,
   readAndReplaceTextFile: readAndReplaceTextFile,
-  readAndReplaceJSONFile: readAndReplaceJSONFile
+  readAndReplaceJSONFile: readAndReplaceJSONFile,  
 };

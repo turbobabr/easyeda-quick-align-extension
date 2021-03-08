@@ -1,0 +1,124 @@
+
+
+$scale-in-duration: .05s;
+$hover-transition-duration: 0.1s;
+
+@keyframes scaleIn {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+// FIXME: Panel 'scaleIn' animation stopped working after re-exporting all the assets from Sketch!
+#dark-panel {
+    transform-origin: 112px 90px;
+    animation: scaleIn $scale-in-duration;
+}
+
+#light-panel {
+    transform-origin: 112px 90px;
+    animation: scaleIn $scale-in-duration;
+}
+
+#gr-center-hovered {
+  pointer-events: bounding-box;
+
+  opacity: 0;
+  transition: $hover-transition-duration;
+  &:hover {
+    opacity: 1; 
+  }
+}
+
+  #gr-left-hovered {
+    pointer-events: bounding-box;
+
+    opacity: 0;
+    transition: $hover-transition-duration;
+    &:hover {
+       opacity: 1; 
+    }
+}
+
+#gr-top-hovered {
+    pointer-events: bounding-box;
+
+    opacity: 0;
+    transition: $hover-transition-duration;
+    &:hover {
+       opacity: 1; 
+    }
+}
+
+#gr-right-hovered {
+    pointer-events: bounding-box;
+
+    opacity: 0;
+    transition: $hover-transition-duration;
+    &:hover {
+       opacity: 1; 
+    }
+}
+
+#gr-bottom-hovered {
+    pointer-events: bounding-box;
+
+    opacity: 0;
+    transition: $hover-transition-duration;
+    &:hover {
+       opacity: 1; 
+    }
+}
+
+#distribute-horizontally-button #hovered {
+    pointer-events: bounding-box;
+
+    opacity: 0;
+    transition: $hover-transition-duration;
+    &:hover {
+       opacity: 1; 
+    }
+}
+
+#align-vertically-center-button #hovered {
+    pointer-events: bounding-box;
+
+    opacity: 0;
+    transition: $hover-transition-duration;
+    &:hover {
+       opacity: 1; 
+    }
+}
+
+#align-center-center-button #hovered {
+    pointer-events: bounding-box;
+
+    opacity: 0;
+    transition: $hover-transition-duration;
+    &:hover {
+       opacity: 1; 
+    }
+}
+
+#distribute-vertically-button #hovered {
+    pointer-events: bounding-box;
+
+    opacity: 0;
+    transition: $hover-transition-duration;
+    &:hover {
+       opacity: 1; 
+    }
+}
+
+#select-all-prefixes-button #hovered {
+  pointer-events: bounding-box;
+
+  opacity: 0;
+  transition: $hover-transition-duration;
+  &:hover {
+     opacity: 1; 
+  }
+}

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="21.5" cy="21.5" r="20.5"></circle>
+        <filter x="-19.5%" y="-17.1%" width="139.0%" height="139.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.415701486 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="18.5" cy="18.5" r="18.5"></circle>
+        <filter x="-9.5%" y="-6.8%" width="118.9%" height="118.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#3FB0FF" offset="0%"></stop>
+            <stop stop-color="#0397FD" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-6" cx="21.5" cy="21.5" r="20.5"></circle>
+        <filter x="-19.5%" y="-17.1%" width="139.0%" height="139.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.415701486 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-8" cx="18.5" cy="18.5" r="18.5"></circle>
+        <filter x="-9.5%" y="-6.8%" width="118.9%" height="118.9%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-10" cx="21.5" cy="21.5" r="20.5"></circle>
+        <filter x="-19.5%" y="-17.1%" width="139.0%" height="139.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.415701486 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-12" cx="18.5" cy="18.5" r="18.5"></circle>
+        <filter x="-9.5%" y="-6.8%" width="118.9%" height="118.9%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-14" cx="21.5" cy="21.5" r="20.5"></circle>
+        <filter x="-19.5%" y="-17.1%" width="139.0%" height="139.0%" filterUnits="objectBoundingBox" id="filter-15">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.415701486 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-16" cx="18.5" cy="18.5" r="18.5"></circle>
+        <filter x="-9.5%" y="-6.8%" width="118.9%" height="118.9%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-18" cx="50.5" cy="50.5" r="49.5"></circle>
+        <filter x="-8.1%" y="-7.1%" width="116.2%" height="116.2%" filterUnits="objectBoundingBox" id="filter-19">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.415701486 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M47.5,69.0909091 C52.9956517,69.0909091 58.0117395,67.0376524 61.8229844,63.6564181 L80.1585333,81.9917478 C71.6459219,90.0546562 60.1504844,95 47.5,95 C34.629422,95 22.9544317,89.8810808 14.3998768,81.5680902 L32.7243012,63.2432206 C36.5866691,66.8696486 41.783933,69.0909091 47.5,69.0909091 Z" id="path-20"></path>
+        <filter x="-5.3%" y="-7.9%" width="110.6%" height="122.0%" filterUnits="objectBoundingBox" id="filter-21">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M81.5680902,14.3998768 C89.8810808,22.9544317 95,34.629422 95,47.5 C95,60.1504844 90.0546562,71.6459219 81.9917478,80.1585333 L63.6564181,61.8229844 C67.0376524,58.0117395 69.0909091,52.9956517 69.0909091,47.5 C69.0909091,41.783933 66.8696486,36.5866691 63.2432206,32.7243012 L81.5680902,14.3998768 Z" id="path-22"></path>
+        <filter x="-11.0%" y="-3.8%" width="122.0%" height="110.6%" filterUnits="objectBoundingBox" id="filter-23">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M13.0090732,14.8405999 L31.3443542,33.1761451 C27.9626603,36.9874967 25.9090909,42.0039299 25.9090909,47.5 C25.9090909,52.7760072 27.8015026,57.610018 30.9445791,61.3602855 L12.5919831,79.7133963 C4.94041572,71.4259021 0.202905561,60.4076328 0.00636364289,48.2854994 L-1.70530257e-13,47.5 C-1.70530257e-13,34.8490862 4.94567949,23.3532978 13.0090732,14.8405999 Z" id="path-24"></path>
+        <filter x="-11.2%" y="-3.9%" width="122.3%" height="110.8%" filterUnits="objectBoundingBox" id="filter-25">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M47.5,-1.70530257e-13 C59.9313062,-1.70530257e-13 71.2472426,4.77546538 79.7133963,12.5919831 L61.3602855,30.9445791 C57.610018,27.8015026 52.7760072,25.9090909 47.5,25.9090909 C42.0039299,25.9090909 36.9874967,27.9626603 33.1761451,31.3443542 L14.8405999,13.0090732 C23.1767745,5.11288578 34.3736049,0.206452459 46.7145006,0.00636364289 L47.5,-1.70530257e-13 Z" id="path-26"></path>
+        <filter x="-5.4%" y="-8.0%" width="110.8%" height="122.3%" filterUnits="objectBoundingBox" id="filter-27">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-28" cx="47.5" cy="47.5" r="19"></circle>
+        <filter x="-9.2%" y="-6.6%" width="118.4%" height="118.4%" filterUnits="objectBoundingBox" id="filter-29">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-30">
+            <stop stop-color="#3FB0FF" offset="0%"></stop>
+            <stop stop-color="#0397FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-31">
+            <stop stop-color="#3FB0FF" offset="0%"></stop>
+            <stop stop-color="#0397FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-32">
+            <stop stop-color="#3FB0FF" offset="0%"></stop>
+            <stop stop-color="#0397FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-33">
+            <stop stop-color="#3FB0FF" offset="0%"></stop>
+            <stop stop-color="#0397FD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="component-align-light-panel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="panel/light" transform="translate(14.000000, 13.000000)">
+            <g id="distribute-vertically-button" transform="translate(76.000000, 131.000000)">
+                <g id="shade-background">
+                    <g id="bg-templates/light-shade-background">
+                        <circle id="white-background" fill-opacity="0.31" fill="#FFFFFF" fill-rule="evenodd" cx="21.5" cy="21.5" r="21.5"></circle>
+                        <g id="black-background">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+                <g id="normal" transform="translate(3.000000, 3.000000)">
+                    <g id="Oval-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <circle stroke-opacity="0.153026661" stroke="#000000" stroke-width="1" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd" cx="18.5" cy="18.5" r="18"></circle>
+                    </g>
+                    <g id="ic-distribute-vert-sketch" transform="translate(10.000000, 10.000000)">
+                        <rect id="Rectangle-Copy-2" fill="#555555" transform="translate(8.500000, 14.500000) rotate(-90.000000) translate(-8.500000, -14.500000) " x="8" y="8" width="1" height="13" rx="0.5"></rect>
+                        <rect id="Rectangle-Copy-3" fill="#555555" transform="translate(8.500000, 2.500000) rotate(-90.000000) translate(-8.500000, -2.500000) " x="8" y="-4" width="1" height="13" rx="0.5"></rect>
+                        <rect id="Rectangle-Copy" stroke="#7D7D7D" stroke-width="1" fill="#CECECE" transform="translate(8.500000, 8.500000) rotate(-90.000000) translate(-8.500000, -8.500000) " x="6.5" y="4.5" width="4" height="8" rx="1"></rect>
+                    </g>
+                </g>
+                <g id="hovered" opacity="0" transform="translate(3.000000, 3.000000)">
+                    <circle id="Oval-Copy" stroke="#0397FD" fill="url(#linearGradient-5)" cx="18.5" cy="18.5" r="18"></circle>
+                    <g id="ic-distribute-vert-sketch-hover" transform="translate(10.000000, 10.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle-Copy-2" transform="translate(8.500000, 14.500000) rotate(-90.000000) translate(-8.500000, -14.500000) " x="8" y="7" width="1" height="15" rx="0.5"></rect>
+                        <rect id="Rectangle-Copy-3" transform="translate(8.500000, 2.500000) rotate(-90.000000) translate(-8.500000, -2.500000) " x="8" y="-5" width="1" height="15" rx="0.5"></rect>
+                        <rect id="Rectangle-Copy" stroke="#FFFFFF" stroke-width="1" fill-opacity="0.41" transform="translate(8.500000, 8.500000) rotate(-90.000000) translate(-8.500000, -8.500000) " x="6.5" y="4.5" width="4" height="8" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="align-center-center-button" transform="translate(130.000000, 0.000000)">
+                <g id="shade-background">
+                    <g id="bg-templates/light-shade-background">
+                        <circle id="white-background" fill-opacity="0.31" fill="#FFFFFF" fill-rule="evenodd" cx="21.5" cy="21.5" r="21.5"></circle>
+                        <g id="black-background">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        </g>
+                    </g>
+                </g>
+                <g id="normal" transform="translate(3.000000, 3.000000)">
+                    <g id="Oval-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                        <circle stroke-opacity="0.153026661" stroke="#000000" stroke-width="1" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd" cx="18.5" cy="18.5" r="18"></circle>
+                    </g>
+                    <g id="ic-align-center" transform="translate(10.000000, 10.000000)">
+                        <rect id="Rectangle" fill="#555555" x="8" y="2" width="1" height="4" rx="0.5"></rect>
+                        <rect id="Rectangle" fill="#555555" x="8" y="11" width="1" height="4" rx="0.5"></rect>
+                        <rect id="Rectangle" fill="#555555" x="11" y="8" width="4" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle" fill="#555555" x="2" y="8" width="4" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle" stroke="#7D7D7D" stroke-width="1" fill="#CECECE" x="5.5" y="5.5" width="6" height="6" rx="1"></rect>
+                    </g>
+                </g>
+                <g id="hovered" opacity="0" transform="translate(3.000000, 3.000000)">
+                    <circle id="Oval-Copy" stroke="#0397FD" fill="url(#linearGradient-5)" cx="18.5" cy="18.5" r="18"></circle>
+                    <g id="ic-align-center-hover" transform="translate(10.000000, 10.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle" x="8" y="1" width="1" height="5" rx="0.5"></rect>
+                        <rect id="Rectangle" x="8" y="11" width="1" height="5" rx="0.5"></rect>
+                        <rect id="Rectangle" x="11" y="8" width="5" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle" x="1" y="8" width="5" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1" fill-opacity="0.41" x="5.5" y="5.5" width="6" height="6" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="distribute-horizontally-button" transform="translate(0.000000, 55.000000)">
+                <g id="shade-background">
+                    <g id="bg-templates/light-shade-background">
+                        <circle id="white-background" fill-opacity="0.31" fill="#FFFFFF" fill-rule="evenodd" cx="21.5" cy="21.5" r="21.5"></circle>
+                        <g id="black-background">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                        </g>
+                    </g>
+                </g>
+                <g id="normal" transform="translate(3.000000, 3.000000)">
+                    <g id="Oval-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                        <circle stroke-opacity="0.153026661" stroke="#000000" stroke-width="1" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd" cx="18.5" cy="18.5" r="18"></circle>
+                    </g>
+                    <g id="ic-distribute-horz-sketch" transform="translate(10.000000, 10.000000)">
+                        <rect id="Rectangle-Copy-2" fill="#555555" x="2" y="2" width="1" height="13" rx="0.5"></rect>
+                        <rect id="Rectangle-Copy-3" fill="#555555" x="14" y="2" width="1" height="13" rx="0.5"></rect>
+                        <rect id="Rectangle-Copy" stroke="#7D7D7D" stroke-width="1" fill="#CECECE" x="6.5" y="4.5" width="4" height="8" rx="1"></rect>
+                    </g>
+                </g>
+                <g id="hovered" opacity="0" transform="translate(3.000000, 3.000000)">
+                    <circle id="Oval-Copy" stroke="#0397FD" fill="url(#linearGradient-5)" cx="18.5" cy="18.5" r="18"></circle>
+                    <g id="ic-distribute-horz-sketch-hover" transform="translate(10.000000, 10.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle-Copy-2" x="2" y="1" width="1" height="15" rx="0.5"></rect>
+                        <rect id="Rectangle-Copy-3" x="14" y="1" width="1" height="15" rx="0.5"></rect>
+                        <rect id="Rectangle-Copy" stroke="#FFFFFF" stroke-width="1" fill-opacity="0.41" x="6.5" y="4.5" width="4" height="8" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="align-vertically-center-button" transform="translate(21.000000, 109.000000)">
+                <g id="shade-background">
+                    <g id="bg-templates/light-shade-background">
+                        <circle id="white-background" fill-opacity="0.31" fill="#FFFFFF" fill-rule="evenodd" cx="21.5" cy="21.5" r="21.5"></circle>
+                        <g id="black-background">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-14"></use>
+                        </g>
+                    </g>
+                </g>
+                <g id="normal" transform="translate(3.000000, 3.000000)">
+                    <g id="Oval-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+                        <circle stroke-opacity="0.153026661" stroke="#000000" stroke-width="1" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd" cx="18.5" cy="18.5" r="18"></circle>
+                    </g>
+                    <g id="ic-align-vert-center" transform="translate(10.000000, 10.000000)">
+                        <rect id="Rectangle" fill="#555555" x="2" y="8" width="13" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle" stroke="#7D7D7D" stroke-width="1" fill="#CECECE" x="6.5" y="3.5" width="4" height="10" rx="1"></rect>
+                    </g>
+                </g>
+                <g id="hovered" opacity="0" transform="translate(3.000000, 3.000000)">
+                    <circle id="Oval-Copy" stroke="#0397FD" fill="url(#linearGradient-5)" cx="18.5" cy="18.5" r="18"></circle>
+                    <g id="ic-align-vert-center-hover" transform="translate(10.000000, 10.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle" x="10" y="8" width="6" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle" x="1" y="8" width="6" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1" fill-opacity="0.41" x="6.5" y="3.5" width="4" height="10" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="alignment-cross-preview" transform="translate(47.000000, 26.000000)">
+                <g id="shade-background">
+                    <g id="bg-templates/light-shade-background">
+                        <circle id="white-background" fill-opacity="0.31" fill="#FFFFFF" fill-rule="evenodd" cx="50.5" cy="50.5" r="50.5"></circle>
+                        <g id="black-background">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-18"></use>
+                        </g>
+                    </g>
+                </g>
+                <g id="cross-variants/alignment-cross-normal" transform="translate(3.000000, 3.000000)">
+                    <g id="background-normal">
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-21)" xlink:href="#path-20"></use>
+                            <path stroke-opacity="0.153026661" stroke="#000000" stroke-width="1" d="M32.739008,63.9356288 L15.1140025,81.5610625 C23.5440529,89.5790665 34.9473564,94.5 47.5,94.5 C59.8324952,94.5 71.0556179,89.7501686 79.4397274,81.980053 L61.7989389,64.3394755 C57.9455053,67.6147201 52.9535442,69.5909091 47.5,69.5909091 C41.8258274,69.5909091 36.651326,67.4516105 32.739008,63.9356288 Z" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd"></path>
+                        </g>
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-23)" xlink:href="#path-22"></use>
+                            <path stroke-opacity="0.153026661" stroke="#000000" stroke-width="1" d="M81.5610625,15.1140025 L63.9356288,32.739008 C67.4516105,36.651326 69.5909091,41.8258274 69.5909091,47.5 C69.5909091,52.9535442 67.6147201,57.9455053 64.3394755,61.7989389 L81.980053,79.4397274 C89.7501686,71.0556179 94.5,59.8324952 94.5,47.5 C94.5,34.9473564 89.5790665,23.5440529 81.5610625,15.1140025 Z" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd"></path>
+                        </g>
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-25)" xlink:href="#path-24"></use>
+                            <path stroke-opacity="0.153026661" stroke="#000000" stroke-width="1" d="M13.0207584,15.5593971 C5.25016211,23.9436008 0.5,35.1670756 0.5,47.5 L0.506347236,48.2814488 C0.697747336,60.0854511 5.24374194,70.8348328 12.6083924,78.9898698 L30.2706073,61.3271596 C27.2291053,57.5420597 25.4090909,52.7335862 25.4090909,47.5 C25.4090909,42.0460367 27.3855836,37.0537274 30.6612797,33.2001727 L13.0207584,15.5593971 Z" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd"></path>
+                        </g>
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-27)" xlink:href="#path-26"></use>
+                            <path stroke-opacity="0.153026661" stroke="#000000" stroke-width="1" d="M47.5,0.5 L46.7185512,0.506347236 C34.69571,0.701295482 23.7670928,5.41374983 15.5593971,13.0207583 L33.2001727,30.6612797 C37.0537274,27.3855836 42.0460367,25.4090909 47.5,25.4090909 C52.7335862,25.4090909 57.5420597,27.2291053 61.3271596,30.2706073 L78.9898698,12.6083924 C70.6562071,5.08243102 59.6132384,0.5 47.5,0.5 Z" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd"></path>
+                        </g>
+                        <g id="Oval">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-29)" xlink:href="#path-28"></use>
+                            <circle stroke-opacity="0.153026661" stroke="#000000" stroke-width="1" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd" cx="47.5" cy="47.5" r="18.5"></circle>
+                        </g>
+                    </g>
+                    <g id="icons-normal" transform="translate(2.000000, 2.000000)">
+                        <g id="button-placeholder" transform="translate(33.000000, 33.000000)">
+                            <g id="ic-align-horz-center" transform="translate(4.000000, 4.000000)">
+                                <rect id="Rectangle" fill="#555555" x="8" y="2" width="1" height="13" rx="0.5"></rect>
+                                <rect id="Rectangle" stroke="#7D7D7D" stroke-width="1" fill="#CECECE" x="3.5" y="6.5" width="10" height="4" rx="1"></rect>
+                            </g>
+                        </g>
+                        <g id="button-placeholder" transform="translate(33.000000, 66.000000)">
+                            <g id="ic-align-bottom" transform="translate(4.000000, 4.000000)">
+                                <rect id="Rectangle" fill="#555555" x="2" y="15" width="13" height="1" rx="0.5"></rect>
+                                <rect id="Rectangle" stroke="#7D7D7D" stroke-width="1" fill="#CECECE" x="6.5" y="4.5" width="4" height="9" rx="1"></rect>
+                            </g>
+                        </g>
+                        <g id="button-placeholder" transform="translate(66.000000, 33.000000)">
+                            <g id="ic-align-right" transform="translate(4.000000, 4.000000)">
+                                <rect id="Rectangle" fill="#555555" x="15" y="2" width="1" height="13" rx="0.5"></rect>
+                                <rect id="Rectangle" stroke="#7D7D7D" stroke-width="1" fill="#CECECE" x="4.5" y="6.5" width="9" height="4" rx="1"></rect>
+                            </g>
+                        </g>
+                        <g id="button-placeholder" transform="translate(0.000000, 33.000000)">
+                            <g id="ic-align-left" transform="translate(4.000000, 4.000000)">
+                                <rect id="Rectangle" fill="#555555" x="1" y="2" width="1" height="13" rx="0.5"></rect>
+                                <rect id="Rectangle" stroke="#7D7D7D" stroke-width="1" fill="#CECECE" x="3.5" y="6.5" width="9" height="4" rx="1"></rect>
+                            </g>
+                        </g>
+                        <g id="button-placeholder" transform="translate(33.000000, 0.000000)">
+                            <g id="ic-align-top" transform="translate(4.000000, 4.000000)">
+                                <rect id="Rectangle" fill="#555555" x="2" y="1" width="13" height="1" rx="0.5"></rect>
+                                <rect id="Rectangle" stroke="#7D7D7D" stroke-width="1" fill="#CECECE" x="6.5" y="3.5" width="4" height="9" rx="1"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="hovered" opacity="0.994675409">
+                        <g id="gr-center-hovered" opacity="0" transform="translate(28.500000, 28.500000)">
+                            <circle id="Oval" stroke="#0397FD" fill="url(#linearGradient-5)" cx="19" cy="19" r="18.5"></circle>
+                            <g id="button-placeholder" transform="translate(6.500000, 6.500000)" fill="#FFFFFF">
+                                <g id="ic-align-horz-center-hover" transform="translate(4.000000, 4.000000)">
+                                    <rect id="Rectangle" x="8" y="1" width="1" height="6" rx="0.5"></rect>
+                                    <rect id="Rectangle" x="8" y="10" width="1" height="6" rx="0.5"></rect>
+                                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1" fill-opacity="0.41" x="3.5" y="6.5" width="10" height="4" rx="1"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="gr-left-hovered" opacity="0" transform="translate(0.000000, 14.000000)">
+                            <path d="M13.0207584,1.55939714 C5.25016211,9.94360084 0.5,21.1670756 0.5,33.5 L0.506347236,34.2814488 C0.697747336,46.0854511 5.24374194,56.8348328 12.6083924,64.9898698 L30.2706073,47.3271596 C27.2291053,43.5420597 25.4090909,38.7335862 25.4090909,33.5 C25.4090909,28.0460367 27.3855836,23.0537274 30.6612797,19.2001727 L13.0207584,1.55939714 Z" id="Path" stroke="#0397FD" fill="url(#linearGradient-30)"></path>
+                            <g id="button-placeholder" transform="translate(2.000000, 21.000000)" fill="#FFFFFF">
+                                <g id="ic-align-left-hover" transform="translate(4.000000, 4.000000)">
+                                    <rect id="Rectangle" x="1" y="1" width="1" height="15" rx="0.5"></rect>
+                                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1" fill-opacity="0.41" x="3.5" y="6.5" width="9" height="4" rx="1"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="gr-top-hovered" opacity="0" transform="translate(14.000000, 0.000000)">
+                            <path d="M33.5,0.5 L32.7185512,0.506347236 C20.69571,0.701295482 9.76709282,5.41374983 1.55939711,13.0207583 L19.2001727,30.6612797 C23.0537274,27.3855836 28.0460367,25.4090909 33.5,25.4090909 C38.7335862,25.4090909 43.5420597,27.2291053 47.3271596,30.2706073 L64.9898698,12.6083924 C56.6562071,5.08243102 45.6132384,0.5 33.5,0.5 Z" id="Path" stroke="#0397FD" fill="url(#linearGradient-31)"></path>
+                            <g id="button-placeholder" transform="translate(21.000000, 2.000000)" fill="#FFFFFF">
+                                <g id="ic-align-top-hover" transform="translate(4.000000, 4.000000)">
+                                    <rect id="Rectangle" x="1" y="1" width="15" height="1" rx="0.5"></rect>
+                                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1" fill-opacity="0.41" x="6.5" y="3.5" width="4" height="9" rx="1"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="gr-right-hovered" opacity="0" transform="translate(63.000000, 14.000000)">
+                            <path d="M18.5610625,1.11400251 L0.935628832,18.739008 C4.45161054,22.651326 6.59090909,27.8258274 6.59090909,33.5 C6.59090909,38.9535442 4.61472008,43.9455053 1.33947549,47.7989389 L18.980053,65.4397274 C26.7501686,57.0556179 31.5,45.8324952 31.5,33.5 C31.5,20.9473564 26.5790665,9.54405286 18.5610625,1.11400251 Z" id="Path" stroke="#0397FD" fill="url(#linearGradient-32)"></path>
+                            <g id="button-placeholder" transform="translate(5.000000, 21.000000)" fill="#FFFFFF">
+                                <g id="ic-align-right-hover" transform="translate(4.000000, 4.000000)">
+                                    <rect id="Rectangle" x="15" y="1" width="1" height="15" rx="0.5"></rect>
+                                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1" fill-opacity="0.41" x="4.5" y="6.5" width="9" height="4" rx="1"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="gr-bottom-hovered" opacity="0" transform="translate(14.000000, 63.000000)">
+                            <path d="M18.739008,0.935628832 L1.11400251,18.5610625 C9.54405286,26.5790665 20.9473564,31.5 33.5,31.5 C45.8324952,31.5 57.0556179,26.7501686 65.4397274,18.980053 L47.7989389,1.33947549 C43.9455053,4.61472008 38.9535442,6.59090909 33.5,6.59090909 C27.8258274,6.59090909 22.651326,4.45161054 18.739008,0.935628832 Z" id="Path" stroke="#0397FD" fill="url(#linearGradient-33)"></path>
+                            <g id="button-placeholder" transform="translate(21.000000, 5.000000)" fill="#FFFFFF">
+                                <g id="ic-align-bottom-copy" transform="translate(4.000000, 4.000000)">
+                                    <rect id="Rectangle" x="1" y="15" width="15" height="1" rx="0.5"></rect>
+                                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1" fill-opacity="0.41" x="6.5" y="4.5" width="4" height="9" rx="1"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

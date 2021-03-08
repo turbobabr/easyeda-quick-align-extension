@@ -1,12 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">        
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="icon">
-            <rect id="Rectangle" stroke-opacity="0.132102273" stroke="#000000" fill="#FFFFFF" x="0.5" y="0.5" width="31" height="31" rx="3"></rect>
-            <circle id="Oval" fill="#E5E5E5" cx="16" cy="16" r="10"></circle>
-            <rect id="Rectangle" fill="#707070" x="11" y="12" width="2" height="4" rx="1"></rect>
-            <rect id="Rectangle-Copy" fill="#707070" x="19" y="12" width="2" height="4" rx="1"></rect>
-            <rect id="Rectangle-Copy-2" fill="#707070" x="15" y="18" width="2" height="4" rx="1"></rect>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="15" cy="15" r="14.7029703"></circle>
+        <filter x="-5.1%" y="-5.1%" width="110.2%" height="110.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.415701486 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M14.1089109,20.5220522 C15.7412827,20.5220522 17.2312098,19.912174 18.3632627,18.907847 L23.8094653,24.3539845 C21.2809669,26.7489078 17.8664805,28.2178218 14.1089109,28.2178218 C10.2859669,28.2178218 6.81814803,26.6973507 4.27719114,24.2281456 L9.72008947,18.785115 C10.8673275,19.8622719 12.4110692,20.5220522 14.1089109,20.5220522 Z" id="path-3"></path>
+        <filter x="-7.7%" y="-15.9%" width="115.4%" height="131.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M24.2281456,4.27719114 C26.6973507,6.81814803 28.2178218,10.2859669 28.2178218,14.1089109 C28.2178218,17.8664805 26.7489078,21.2809669 24.3539845,23.8094653 L18.907847,18.3632627 C19.912174,17.2312098 20.5220522,15.7412827 20.5220522,14.1089109 C20.5220522,12.4110692 19.8622719,10.8673275 18.785115,9.72008947 L24.2281456,4.27719114 Z" id="path-5"></path>
+        <filter x="-15.9%" y="-7.7%" width="131.8%" height="115.4%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M3.86408115,4.40809899 L9.3102042,9.85430054 C8.30574067,10.9863852 7.69576958,12.4764148 7.69576958,14.1089109 C7.69576958,15.6760418 8.25787206,17.1118865 9.19145913,18.2258274 L3.74019299,23.6772464 C1.46745021,21.2156145 0.0602689785,17.9428612 0.00189019096,14.3422275 L-5.06525515e-14,14.1089109 C-5.06525515e-14,10.3512137 1.46901371,6.9366231 3.86408115,4.40809899 Z" id="path-7"></path>
+        <filter x="-16.1%" y="-7.8%" width="132.2%" height="115.6%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M14.1089109,-5.06525515e-14 C17.8013781,-5.06525515e-14 21.1625473,1.41845506 23.6772464,3.74019299 L18.2258274,9.19145913 C17.1118865,8.25787206 15.6760418,7.69576958 14.1089109,7.69576958 C12.4764148,7.69576958 10.9863852,8.30574067 9.85430054,9.3102042 L4.40809899,3.86408115 C6.88419044,1.51867895 10.2099816,0.0613225127 13.8755943,0.00189019096 L14.1089109,-5.06525515e-14 Z" id="path-9"></path>
+        <filter x="-7.8%" y="-16.1%" width="115.6%" height="132.2%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-11" cx="14.1089109" cy="14.1089109" r="5.64356436"></circle>
+        <filter x="-13.3%" y="-13.3%" width="126.6%" height="126.6%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0884779283 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#3FB0FF" offset="0%"></stop>
+            <stop stop-color="#0397FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#3FB0FF" offset="0%"></stop>
+            <stop stop-color="#0397FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#3FB0FF" offset="0%"></stop>
+            <stop stop-color="#0397FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-16">
+            <stop stop-color="#3FB0FF" offset="0%"></stop>
+            <stop stop-color="#0397FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-17">
+            <stop stop-color="#3FB0FF" offset="0%"></stop>
+            <stop stop-color="#0397FD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)">
+            <g id="alignment-cross-preview">
+                <g id="shade-background">
+                    <g id="dark-shade-background">
+                        <circle id="white-background" fill="#FFFFFF" cx="15" cy="15" r="15"></circle>
+                        <g id="black-background">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+                <g id="cross-variants/alignment-cross-normal" transform="translate(0.891089, 0.891089)">
+                    <g id="background-normal">
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <path stroke-opacity="0.153026661" stroke="#000000" stroke-width="0.5" d="M9.72867455,19.1300874 L4.6349234,24.2239623 C7.11305518,26.545987 10.4449407,27.9678218 14.1089109,27.9678218 C17.7074754,27.9678218 20.985709,26.5963007 23.449375,24.3474498 L18.3500722,19.2482079 C17.1978771,20.2001088 15.7201909,20.7720522 14.1089109,20.7720522 C12.4320424,20.7720522 10.899858,20.1526089 9.72867455,19.1300874 Z" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd"></path>
+                        </g>
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <path stroke-opacity="0.153026661" stroke="#000000" stroke-width="0.5" d="M24.2239623,4.6349234 L19.1300874,9.72867455 C20.1526089,10.899858 20.7720522,12.4320424 20.7720522,14.1089109 C20.7720522,15.7201909 20.2001088,17.1978771 19.2482079,18.3500722 L24.3474498,23.449375 C26.5963007,20.985709 27.9678218,17.7074754 27.9678218,14.1089109 C27.9678218,10.4449407 26.545987,7.11305518 24.2239623,4.6349234 Z" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd"></path>
+                        </g>
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                            <path stroke-opacity="0.153026661" stroke="#000000" stroke-width="0.5" d="M3.87061401,4.76818788 C1.62072969,7.23306744 0.250079395,10.5187915 0.251890163,14.3421091 C0.307690113,17.7818281 1.61947977,20.9199639 3.74910341,23.3147774 L8.85558136,18.2081562 C7.97223107,17.0776803 7.44576958,15.6547826 7.44576958,14.1089109 C7.44576958,12.4975062 8.01780148,11.0197161 8.9698348,9.86748217 L3.87061401,4.76818788 Z" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd"></path>
+                        </g>
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                            <path stroke-opacity="0.153026661" stroke="#000000" stroke-width="0.5" d="M13.8757146,0.251890162 C10.3710753,0.308743483 7.17945847,1.66947065 4.76818489,3.87061101 L9.86748217,8.9698348 C11.0197161,8.01780148 12.4975062,7.44576958 14.1089109,7.44576958 C15.6547826,7.44576958 17.0776803,7.97223107 18.2081562,8.85558136 L23.3147742,3.74910664 C20.8657106,1.57143774 17.633592,0.250080815 13.8757146,0.251890162 Z" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd"></path>
+                        </g>
+                        <g id="Oval">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                            <circle stroke-opacity="0.153026661" stroke="#000000" stroke-width="0.5" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd" cx="14.1089109" cy="14.1089109" r="5.39356436"></circle>
+                        </g>
+                    </g>
+                    <g id="icons-normal" transform="translate(0.594059, 0.594059)">
+                        <g id="button-placeholder" transform="translate(9.801980, 9.801980)">
+                            <g id="ic-align-horz-center" transform="translate(1.188119, 1.188119)">
+                                <rect id="Rectangle" fill="#555555" x="2.37623762" y="0.594059406" width="1" height="3.86138614" rx="0.148514851"></rect>
+                                <rect id="Rectangle" stroke="#7D7D7D" stroke-width="0.5" fill="#CECECE" x="1.14108911" y="2.03217822" width="2.76732673" height="1" rx="0.297029703"></rect>
+                            </g>
+                        </g>
+                        <g id="button-placeholder" transform="translate(9.801980, 19.603960)">
+                            <g id="ic-align-bottom" transform="translate(1.188119, 1.188119)">
+                                <rect id="Rectangle" fill="#555555" x="0.594059406" y="4.45544554" width="3.86138614" height="1" rx="0.148514851"></rect>
+                                <rect id="Rectangle" stroke="#7D7D7D" stroke-width="0.5" fill="#CECECE" x="2.03217822" y="1.43811881" width="1" height="2.47029703" rx="0.297029703"></rect>
+                            </g>
+                        </g>
+                        <g id="button-placeholder" transform="translate(19.603960, 9.801980)">
+                            <g id="ic-align-right" transform="translate(1.188119, 1.188119)">
+                                <rect id="Rectangle" fill="#555555" x="4.45544554" y="0.594059406" width="1" height="3.86138614" rx="0.148514851"></rect>
+                                <rect id="Rectangle" stroke="#7D7D7D" stroke-width="0.5" fill="#CECECE" x="1.43811881" y="2.03217822" width="2.47029703" height="1" rx="0.297029703"></rect>
+                            </g>
+                        </g>
+                        <g id="button-placeholder" transform="translate(0.000000, 9.801980)">
+                            <g id="ic-align-left" transform="translate(1.188119, 1.188119)">
+                                <rect id="Rectangle" fill="#555555" x="0.297029703" y="0.594059406" width="1" height="3.86138614" rx="0.148514851"></rect>
+                                <rect id="Rectangle" stroke="#7D7D7D" stroke-width="0.5" fill="#CECECE" x="1.14108911" y="2.03217822" width="2.47029703" height="1" rx="0.297029703"></rect>
+                            </g>
+                        </g>
+                        <g id="button-placeholder" transform="translate(9.801980, 0.000000)">
+                            <g id="ic-align-top" transform="translate(1.188119, 1.188119)">
+                                <rect id="Rectangle" fill="#555555" x="0.594059406" y="0.297029703" width="3.86138614" height="1" rx="0.148514851"></rect>
+                                <rect id="Rectangle" stroke="#7D7D7D" stroke-width="0.5" fill="#CECECE" x="2.03217822" y="1.14108911" width="1" height="2.47029703" rx="0.297029703"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="hovered" opacity="0.994675409">
+                        <g id="gr-center-hovered" opacity="0" transform="translate(8.465347, 8.465347)">
+                            <circle id="Oval" stroke="#0397FD" stroke-width="0.5" fill="url(#linearGradient-13)" cx="5.64356436" cy="5.64356436" r="5.39356436"></circle>
+                            <g id="button-placeholder" transform="translate(1.930693, 1.930693)" fill="#FFFFFF">
+                                <g id="ic-align-horz-center-hover" transform="translate(1.188119, 1.188119)">
+                                    <rect id="Rectangle" x="2.37623762" y="0.297029703" width="1" height="1.78217822" rx="0.148514851"></rect>
+                                    <rect id="Rectangle" x="2.37623762" y="2.97029703" width="1" height="1.78217822" rx="0.148514851"></rect>
+                                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.5" fill-opacity="0.41" x="1.14108911" y="2.03217822" width="2.76732673" height="1" rx="0.297029703"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="gr-left-hovered" opacity="0" transform="translate(0.000000, 4.158416)">
+                            <path d="M3.87061401,0.60977204 C1.62072969,3.0746516 0.250079395,6.36037568 0.251890163,10.1836933 C0.307690113,13.6234122 1.61947977,16.7615481 3.74910341,19.1563616 L8.85558136,14.0497404 C7.97223107,12.9192644 7.44576958,11.4963667 7.44576958,9.95049505 C7.44576958,8.33909037 8.01780148,6.86130022 8.9698348,5.70906633 L3.87061401,0.60977204 Z" id="Path" stroke="#0397FD" stroke-width="0.5" fill="url(#linearGradient-14)"></path>
+                            <g id="button-placeholder" transform="translate(0.594059, 6.237624)" fill="#FFFFFF">
+                                <g id="ic-align-left-hover" transform="translate(1.188119, 1.188119)">
+                                    <rect id="Rectangle" x="0.297029703" y="0.297029703" width="1" height="4.45544554" rx="0.148514851"></rect>
+                                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.5" fill-opacity="0.41" x="1.14108911" y="2.03217822" width="2.47029703" height="1" rx="0.297029703"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="gr-top-hovered" opacity="0" transform="translate(4.158416, 0.000000)">
+                            <path d="M9.71729878,0.251890162 C6.21265942,0.308743483 3.02104263,1.66947065 0.609769046,3.87061101 L5.70906633,8.9698348 C6.86130022,8.01780148 8.33909037,7.44576958 9.95049505,7.44576958 C11.4963667,7.44576958 12.9192644,7.97223107 14.0497404,8.85558136 L19.1563583,3.74910664 C16.7072947,1.57143774 13.4751762,0.250080815 9.71729878,0.251890162 Z" id="Path" stroke="#0397FD" stroke-width="0.5" fill="url(#linearGradient-15)"></path>
+                            <g id="button-placeholder" transform="translate(6.237624, 0.594059)" fill="#FFFFFF">
+                                <g id="ic-align-top-hover" transform="translate(1.188119, 1.188119)">
+                                    <rect id="Rectangle" x="0.297029703" y="0.297029703" width="4.45544554" height="1" rx="0.148514851"></rect>
+                                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.5" fill-opacity="0.41" x="2.03217822" y="1.14108911" width="1" height="2.47029703" rx="0.297029703"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="gr-right-hovered" opacity="0" transform="translate(18.712871, 4.158416)">
+                            <path d="M5.51109105,0.476507556 L0.417216127,5.57025871 C1.43973757,6.74144219 2.05918092,8.27362654 2.05918092,9.95049505 C2.05918092,11.5617751 1.48723749,13.0394612 0.535336626,14.1916564 L5.63457847,19.2909592 C7.88342938,16.8272932 9.2549505,13.5490596 9.2549505,9.95049505 C9.2549505,6.2865249 7.83311569,2.95463934 5.51109105,0.476507556 Z" id="Path" stroke="#0397FD" stroke-width="0.5" fill="url(#linearGradient-16)"></path>
+                            <g id="button-placeholder" transform="translate(1.485149, 6.237624)" fill="#FFFFFF">
+                                <g id="ic-align-right-hover" transform="translate(1.188119, 1.188119)">
+                                    <rect id="Rectangle" x="4.45544554" y="0.297029703" width="1" height="4.45544554" rx="0.148514851"></rect>
+                                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.5" fill-opacity="0.41" x="1.43811881" y="2.03217822" width="2.47029703" height="1" rx="0.297029703"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="gr-bottom-hovered" opacity="0" transform="translate(4.158416, 18.712871)">
+                            <path d="M5.57025871,0.417216127 L0.476507556,5.51109105 C2.95463934,7.83311569 6.2865249,9.2549505 9.95049505,9.2549505 C13.5490596,9.2549505 16.8272932,7.88342938 19.2909592,5.63457847 L14.1916564,0.535336626 C13.0394612,1.48723749 11.5617751,2.05918092 9.95049505,2.05918092 C8.27362654,2.05918092 6.74144219,1.43973757 5.57025871,0.417216127 Z" id="Path" stroke="#0397FD" stroke-width="0.5" fill="url(#linearGradient-17)"></path>
+                            <g id="button-placeholder" transform="translate(6.237624, 1.485149)" fill="#FFFFFF">
+                                <g id="ic-align-bottom-copy" transform="translate(1.188119, 1.188119)">
+                                    <rect id="Rectangle" x="0.297029703" y="4.45544554" width="4.45544554" height="1" rx="0.148514851"></rect>
+                                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.5" fill-opacity="0.41" x="2.03217822" y="1.43811881" width="1" height="2.47029703" rx="0.297029703"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <circle id="Oval" stroke="#0397FD" stroke-width="0.5" fill="url(#linearGradient-13)" cx="15" cy="15" r="4.9480198"></circle>
+            <text id="A" font-family="Avenir-Heavy, Avenir" font-size="5.34653465" font-weight="600" fill="#FAFAFA">
+                <tspan x="13.069901" y="16.2871287">A</tspan>
+            </text>
         </g>
     </g>
 </svg>

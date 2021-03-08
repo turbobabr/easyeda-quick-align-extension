@@ -1,7 +1,7 @@
 {
-	"name": "Extenstion Template",
-  "description": "A simple template for developing EasyEDA extension",
-  "id": "base-template",
+	"name": "Quick Align",
+  "description": "{{version}}: Objects alignment without a hassle!",  
+  "id": "quickalign",
   "locale": "locale.txt",
   "author": "Andrey Shakhmin",
   "icons": {
