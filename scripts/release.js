@@ -29,7 +29,7 @@ const buildDownloadURL = (version) => {
   const readmeOutputFilePath = path.resolve(__dirname,'../README.md');  
   const readmeContents = Utils.readAndReplaceTextFile(readmeTemplateFilePath, {
     downloadFileName: archiveFileName,
-    downloadUrl: buildDownloadURL(version)
+    downloadUrl: buildDownloadURL(package.version)
   });
 
   Utils.writeFile(readmeOutputFilePath,readmeContents);
