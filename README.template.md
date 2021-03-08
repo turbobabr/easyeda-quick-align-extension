@@ -1,4 +1,9 @@
-# easyeda-extension-base-template
+# EasyEDA Quick Align Extension
+
+intro goes here..
+
+### Installation
 
 Installation:
+
 - [${downloadFileName}](${downloadUrl})
