@@ -1,13 +1,13 @@
 {
   "name": "easyeda-quick-align-extension",
   "version": "1.0.0",
-  "description": "Objects alignment without a hassle!",  
+  "description": "Objects alignment without a hassle!",
   "scripts": {
     "build": "webpack --mode production",
     "build-live": "webpack --mode production --env LIVE_RELOAD=yes",
     "start": "webpack --mode development --watch --env LIVE_RELOAD=yes",
     "release": "webpack --mode production && npx ./scripts/release.js"
-  },  
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/turbobabr/easyeda-quick-align-extension.git"
@@ -32,10 +32,11 @@
     "url-loader": "^4.1.1",
     "webpack": "^5.19.0",
     "webpack-cli": "^4.4.0",
-    "webpack-watch-files-plugin": "^1.1.0"
+    "webpack-watch-files-plugin": "^1.1.0",
+    "zip-local": "^0.3.4"
   },
   "dependencies": {
     "debounce": "^1.2.0",
-    "event-emitter3": "^1.0.4"    
+    "event-emitter3": "^1.0.4"
   }
 }
