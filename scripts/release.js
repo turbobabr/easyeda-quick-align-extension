@@ -35,13 +35,13 @@ const buildDownloadURL = (version) => {
   Utils.writeFile(readmeOutputFilePath,readmeContents);
 
   // Build cheat sheet
-  const cheatSheetFilePath = path.resolve(__dirname,'../release/cheatsheet.txt');
+  const cheatSheetFilePath = path.join(outputDir,'cheatsheet.txt');
   Utils.writeFile(cheatSheetFilePath,`
-  #tag-name
-  v${package.version}
+#tag-name
+v${package.version}
 
-  #release-name
-  QuickAlign v${package.version},
+#release-name
+QuickAlign v${package.version},
   `);
 
   // Zipping the entire thing
