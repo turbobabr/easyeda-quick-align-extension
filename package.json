@@ -6,7 +6,8 @@
     "build": "webpack --mode production",
     "build-live": "webpack --mode production --env LIVE_RELOAD=yes",
     "start": "webpack --mode development --watch --env LIVE_RELOAD=yes",
-    "release": "webpack --mode production && npx ./scripts/release.js"
+    "release": "webpack --mode production && npx ./scripts/release.js",
+    "release-patch": "npm version patch && npm run release"
   },
   "repository": {
     "type": "git",
