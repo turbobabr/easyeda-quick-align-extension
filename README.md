@@ -6,4 +6,4 @@ intro goes here..
 
 Installation:
 
-- [easyeda-quick-align-1.0.10.zip](https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v1.0.10/easyeda-quick-align-1.0.10.zip)
+- [easyeda-quick-align-v1.0.12.zip](https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v1.0.12/easyeda-quick-align-v1.0.12.zip)
