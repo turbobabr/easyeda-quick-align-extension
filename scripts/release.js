@@ -14,7 +14,7 @@ const buildDownloadURL = (version) => {
 };
 
 (() => {
-  const outputDir = path.resolve(__dirname,'../releases');
+  const outputDir = path.resolve(__dirname,'../release');
   const packageFilePath =  path.resolve(__dirname,'../package.json');
   
   // Clean-up
