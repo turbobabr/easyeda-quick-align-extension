@@ -6,7 +6,7 @@ const Utils = require('./utils');
 
 
 const buildArchiveFileName = (version) => {
-  return `easyeda-quick-align-${version}.zip`
+  return `easyeda-quick-align-v${version}.zip`
 };
 
 const buildDownloadURL = (version) => {
