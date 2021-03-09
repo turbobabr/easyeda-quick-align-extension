@@ -73,8 +73,8 @@ To fix the issue:
 
 ## Version history
 
-**Quick Align 1.0.0: 3/9/2021**
-* Initial Release
+** EasyEDA: Quick Align v1.0.20: 3/9/2021**
+* First version
 
 ## Feedback
 
