@@ -7,7 +7,7 @@
 
 Installation:
 
-1. Download [easyeda-quick-align-v1.0.15.zip](https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v1.0.15/easyeda-quick-align-v1.0.15.zip)
+1. Download [easyeda-quick-align-v1.0.16.zip](https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v1.0.16/easyeda-quick-align-v1.0.16.zip)
 2. Un-zip the downloaded archive on your hard drive.
 3. 
 
@@ -28,7 +28,7 @@ The panel always shows up centered at the current cursor position in the active 
 
 The extension also supports alignment of objects using the same `A` shortcut in `Schematic` based editors:
 
-![Schematic support](docs/easyeda-quick-align-schematics.gif?raw=true)
+![Schematic Support](docs/easyeda-quick-align-schematics.gif?raw=true)
 
 ### Performing multiple actions at once
 
@@ -40,7 +40,7 @@ For example, in case you need to align a bunch of comoponents by the left edge a
 3. Click on `Align items to left` button by holding the `shift`
 4. Release the `shift` key and click on `Distribute Vertically` button.
 
-(SCREENCAST GOES HERE)
+![Multipe Actions](docs/easyeda-quick-align-multiple-actions.gif?raw=true)
 
 > Note: You can perform as many alignment actions as you wish as long as the `shift` key is kept pressed.
 
