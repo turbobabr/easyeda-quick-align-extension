@@ -7,7 +7,7 @@
 
 Installation:
 
-1. Download [easyeda-quick-align-v1.0.13.zip](https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v1.0.13/easyeda-quick-align-v1.0.13.zip)
+1. Download [easyeda-quick-align-v1.0.14.zip](https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v1.0.14/easyeda-quick-align-v1.0.14.zip)
 2. Un-zip the downloaded archive on your hard drive.
 3. 
 
@@ -17,7 +17,7 @@ text
 
 ### Using alignment inline panel
 
-text
+![Intro](docs/easyeda-quick-align-intro-demo.gif?raw=true)
 
 In order to dismiss the panel without doing any alignment actions, just click outside of the panel or hit `Esc` key.
 
@@ -60,7 +60,7 @@ To fix the issue:
 
 ## Version history
 
-**Duplicator 1.0.0: 3/9/2021**
+**Quick Align 1.0.0: 3/9/2021**
 * Initial Release
 
 ## Feedback
