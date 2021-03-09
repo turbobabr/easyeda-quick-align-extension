@@ -3,7 +3,7 @@ import { Actions } from './event-monitor';
 import { showPanel, PanelVariant } from './UI/align-panel/panel';
 import showMessage from './UI/message-box';
 
-import { getActiveTabDocumentType, DocumentType, activeDocumentHasSelectedItems } from './easy-fns';
+import { getActiveTabDocumentType, DocumentType, activeDocumentHasSelectedItems, activeDocumentHasSelectedItemsGreaterThan } from './easy-fns';
 import { checkForNewVersions } from './updates-checker';
 
 const EXTENSION_IDENTIFIER = 'extension-quickalign-id';
@@ -26,7 +26,7 @@ const EXTENSION_IDENTIFIER = 'extension-quickalign-id';
 
       const docType = getActiveTabDocumentType();
       if (validDocTypes.includes(docType)) {
-        if (!activeDocumentHasSelectedItems()) {
+        if (!activeDocumentHasSelectedItemsGreaterThan(1)) {
           showMessage('[quick-align]: Select two or more objects to be aligned', 2500);
           return;
         }

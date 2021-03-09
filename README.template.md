@@ -5,11 +5,14 @@
 
 ## Installation
 
-Installation:
-
 1. Download [${downloadFileName}](${downloadUrl})
 2. Un-zip the downloaded archive on your hard drive.
-3. 
+3. Go to `Extension Settings` dialog by using main menu `Advanced -> Extensions -> Extensions Settings...`.
+4. Click `Load Extension...` button and add all the files in from the extracted folder using `Select Files...` button. 
+5. Click `Load Extension` and close the `Extension Settings` dialog.
+
+
+
 
 ## Usage
 

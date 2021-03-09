@@ -172,7 +172,12 @@ export const select = (ids) => {
 
 export const activeDocumentHasSelectedItems = () => {
   const selection = getSelection();
-  return selection && selection.length > 1;
+  return selection && selection.length > 0;
+}
+
+export const activeDocumentHasSelectedItemsGreaterThan = (number) => {
+  const selection = getSelection();
+  return selection && selection.length > number;
 }
 
 export const fetchLocalFile = (extensionId,fileName) => {
