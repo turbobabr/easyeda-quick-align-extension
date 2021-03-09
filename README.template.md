@@ -54,7 +54,7 @@ The `Quick Align` extension has a special mode for setting position for prefixes
 1. Select one or several components and hit `SHIFT + A` shortcut
 2. Click on a desired location to set the postion for prefixes
 
-(SCREENCAST GOES HERE)
+![Prefixes Demo](docs/easyeda-quick-align-prefixes.gif?raw=true)
 
 > Note: This mode is not available for `schematic`, `simulation` and `symbol` editors. Only `PCB` based editors are supported.
 
