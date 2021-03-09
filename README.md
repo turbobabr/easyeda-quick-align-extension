@@ -5,11 +5,14 @@
 
 ## Installation
 
-Installation:
-
-1. Download [easyeda-quick-align-v1.0.16.zip](https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v1.0.16/easyeda-quick-align-v1.0.16.zip)
+1. Download [easyeda-quick-align-v1.0.17.zip](https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v1.0.17/easyeda-quick-align-v1.0.17.zip)
 2. Un-zip the downloaded archive on your hard drive.
-3. 
+3. Go to `Extension Settings` dialog by using main menu `Advanced -> Extensions -> Extensions Settings...`.
+4. Click `Load Extension...` button and add all the files in from the extracted folder using `Select Files...` button. 
+5. Click `Load Extension` and close the `Extension Settings` dialog.
+
+
+
 
 ## Usage
 
@@ -51,7 +54,7 @@ The `Quick Align` extension has a special mode for setting position for prefixes
 1. Select one or several components and hit `SHIFT + A` shortcut
 2. Click on a desired location to set the postion for prefixes
 
-(SCREENCAST GOES HERE)
+![Prefixes Demo](docs/easyeda-quick-align-prefixes.gif?raw=true)
 
 > Note: This mode is not available for `schematic`, `simulation` and `symbol` editors. Only `PCB` based editors are supported.
 
