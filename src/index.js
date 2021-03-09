@@ -6,7 +6,7 @@ import showMessage from './UI/message-box';
 import { getActiveTabDocumentType, DocumentType, activeDocumentHasSelectedItems, activeDocumentHasSelectedItemsGreaterThan } from './easy-fns';
 import { checkForNewVersions } from './updates-checker';
 
-const EXTENSION_IDENTIFIER = 'extension-quickalign-id';
+export const EXTENSION_IDENTIFIER = 'extension-quickalign-id';
 (() => {
   try {
     const monitor = new EventMonitor();
@@ -52,5 +52,5 @@ const EXTENSION_IDENTIFIER = 'extension-quickalign-id';
     console.error(e);
   }
 
-  return EXTENSION_IDENTIFIER;
+  console.log(`[starting]: ${EXTENSION_IDENTIFIER}`);
 })();

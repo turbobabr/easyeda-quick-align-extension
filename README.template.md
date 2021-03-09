@@ -11,8 +11,7 @@
 4. Click `Load Extension...` button and add all the files in from the extracted folder using `Select Files...` button. 
 5. Click `Load Extension` and close the `Extension Settings` dialog.
 
-
-
+> Caution: This extension is considered to be in `alpha/beta` stages. So far it was tested on `macOS` and `Chrome` browser only, thus it can contain potential issues on other platforms.
 
 ## Usage
 
@@ -47,7 +46,7 @@ For example, in case you need to align a bunch of comoponents by the left edge a
 
 > Note: You can perform as many alignment actions as you wish as long as the `shift` key is kept pressed.
 
-### Prefix positioning
+### Prefixes positioning
 
 The `Quick Align` extension has a special mode for setting position for prefixes of selected components located on a `PCB` board:
 
