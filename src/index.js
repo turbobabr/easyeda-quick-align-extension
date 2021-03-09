@@ -4,7 +4,6 @@ import { showPanel, PanelVariant } from './UI/align-panel/panel';
 import showMessage from './UI/message-box';
 
 import { getActiveTabDocumentType, DocumentType, activeDocumentHasSelectedItems, activeDocumentHasSelectedItemsGreaterThan } from './easy-fns';
-import { checkForNewVersions } from './updates-checker';
 
 export const EXTENSION_IDENTIFIER = 'extension-quickalign-id';
 (() => {
