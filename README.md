@@ -7,19 +7,28 @@
 
 Installation:
 
-1. Download [easyeda-quick-align-v1.0.14.zip](https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v1.0.14/easyeda-quick-align-v1.0.14.zip)
+1. Download [easyeda-quick-align-v1.0.15.zip](https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v1.0.15/easyeda-quick-align-v1.0.15.zip)
 2. Un-zip the downloaded archive on your hard drive.
 3. 
 
 ## Usage
 
-text
+Right after the installation, be sure to refresh the page of the editor in order to get the extension a change to properly initialize itself. 
 
 ### Using alignment inline panel
 
+1. Select two or more components or other objects in 'PCB' editor.
+2. Hit a single `A` shortcut and click on the desired button in the shown up panel to align the objects.
+
 ![Intro](docs/easyeda-quick-align-intro-demo.gif?raw=true)
 
-In order to dismiss the panel without doing any alignment actions, just click outside of the panel or hit `Esc` key.
+The panel always shows up centered at the current cursor position in the active editor's area. All the buttons in the panel are located intuitively taking in account the directions and functionality, thus it is very easy to remember what and where to click in the future.
+
+> Hint: In order to dismiss the panel without doing any alignment actions, just click outside of the panel or hit `Esc` key.
+
+The extension also supports alignment of objects using the same `A` shortcut in `Schematic` based editors:
+
+![Schematic support](docs/easyeda-quick-align-schematics.gif?raw=true)
 
 ### Performing multiple actions at once
 
