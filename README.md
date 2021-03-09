@@ -5,7 +5,7 @@
 
 ## Installation
 
-1. Download [easyeda-quick-align-v1.0.19.zip](https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v1.0.19/easyeda-quick-align-v1.0.19.zip)
+1. Download [easyeda-quick-align-v1.0.20.zip](https://github.com/turbobabr/easyeda-quick-align-extension/releases/download/v1.0.20/easyeda-quick-align-v1.0.20.zip)
 2. Un-zip the downloaded archive on your hard drive.
 3. Go to `Extension Settings` dialog by using main menu `Advanced -> Extensions -> Extensions Settings...`.
 4. Click `Load Extension...` button and add all the files in from the extracted folder using `Select Files...` button. 
